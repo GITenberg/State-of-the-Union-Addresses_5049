@@ -1,5 +1,8 @@
 _repo: State-of-the-Union-Addresses_5049
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bush, George W. (George Walker)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '1674'
     url: http://www.gutenberg.org/2009/agents/1674
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5049#State-of-the-Union-Addresses
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
