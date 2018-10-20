@@ -1,5 +1,5 @@
 _repo: State-of-the-Union-Addresses_5049
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ subjects:
 - !lcsh 'United States -- Politics and government -- Sources'
 - !lcc 'J'
 - !lcsh 'Presidents -- United States -- Messages'
+- GITenberg
 title: State of the Union Addresses
 url: http://www.gutenberg.org/ebooks/5049
